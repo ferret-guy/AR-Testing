@@ -4,8 +4,8 @@ A very simple ar tag detector, using cv2
 
 Identified Frame | Mask
 ------------ | -------------
-![frame](Out imges/0.jpg) | ![mask](Out imges/Mask-0.jpg)
-![frame](Out imges/1.jpg) | ![mask](Out imges/Mask-1.jpg)
+![frame](Out%20imges/0.jpg) | ![mask](Out%20imges/Mask-0.jpg)
+![frame](Out%20imges/1.jpg) | ![mask](Out%20imges/Mask-1.jpg)
 
 ## cam.py
 Run this to show a live camera view
